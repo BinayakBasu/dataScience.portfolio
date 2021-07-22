@@ -1,4 +1,23 @@
 # dataScience.portfolio
+ <h1>Interactive Visualization : Plotly and Cufflinks</h1>
+    <hr size="4">
+    <h2>What is Interactive Visualization?</h2>
+    <hr size="2">
+    <div>
+        <b>Interactive visualization</b> technology enables the exploration of data via the 
+        manipulation of chart images. Thus one can interact with the chart and manipulate it 
+        according to one's own needs. Thus it is more favourable to analyze a data from various
+        fronts.
+        <br>
+        I have used <b>Plotly and Cufflinks</b> to show some Interactive visualizations in 
+        the datset.
+    </div>
+    <h2>Data</h2>
+    <div>
+        <a href="https://www.kaggle.com/shekpaul/global-superstore">Click here</a>to download 
+        the dataset
+    </div>
+    <hr size="10">
 <h1>Data Analytics with Python</h1>
     <hr color="#fe8e28" size="4" noshade>
     <h2>Measures of Central Tendency and Dispersion</h2>
