@@ -1,8 +1,7 @@
 # dataScience.portfolio
  <h1>Interactive Visualization : Plotly and Cufflinks</h1>
-    <hr size="4">
+    <hr size="4" noshade>
     <h2>What is Interactive Visualization?</h2>
-    <hr size="2">
     <div>
         <b>Interactive visualization</b> technology enables the exploration of data via the 
         manipulation of chart images. Thus one can interact with the chart and manipulate it 
@@ -17,7 +16,22 @@
         <a href="https://www.kaggle.com/shekpaul/global-superstore">Click here</a>to download 
         the dataset
     </div>
-    <hr size="10">
+    <h2>Interactive Visualization</h2>
+    <div>
+        <h3>Installing libraries</h3>
+        <li>
+            <b>pip install chart_studio</b>
+        </li>
+        <li>
+            <b>pip install cufflinks</b>
+        </li>
+        <br>
+        <b>
+            <a href="https://nbviewer.jupyter.org/github/BinayakBasu/dataScience.portfolio/blob/da0489b500bc816be6e37cec300534d11919436b/Interactive_%20Visualization.ipynb">
+                Click here</a> to download and view the interactive data visualization.
+        </b>
+    </div>
+    <hr size="10" noshade>
 <h1>Data Analytics with Python</h1>
     <hr color="#fe8e28" size="4" noshade>
     <h2>Measures of Central Tendency and Dispersion</h2>
