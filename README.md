@@ -13,7 +13,7 @@
     </div>
     <h2>Data</h2>
     <div>
-        <a href="https://www.kaggle.com/shekpaul/global-superstore">Click here</a>to download 
+        <a href="https://www.kaggle.com/shekpaul/global-superstore" target="_blank">Click here</a>to download 
         the dataset
     </div>
     <h2>Interactive Visualization</h2>
@@ -27,7 +27,7 @@
         </li>
         <br>
         <b>
-            <a href="https://nbviewer.jupyter.org/github/BinayakBasu/dataScience.portfolio/blob/da0489b500bc816be6e37cec300534d11919436b/Interactive_%20Visualization.ipynb">
+            <a href="https://nbviewer.jupyter.org/github/BinayakBasu/dataScience.portfolio/blob/da0489b500bc816be6e37cec300534d11919436b/Interactive_%20Visualization.ipynb" target="_blank">
                 Click here</a> to download and view the interactive data visualization.
         </b>
     </div>
@@ -83,5 +83,5 @@
             <b>Standard Deviation :</b>Square root of the variance.
         </li>
         <h3>Working with Data</h3>
-        <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/analysis%20of%20central%20tendency%20and%20dispersion.ipynb">Analysis of Central Tendency and Variance</a>
+        <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/analysis%20of%20central%20tendency%20and%20dispersion.ipynb" target="_blank">Analysis of Central Tendency and Variance</a>
     </div>
