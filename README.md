@@ -1,4 +1,60 @@
 # dataScience.portfolio
+<h1>Basics of Web Scraping</h1>
+    <h2> What is Web Scraping?</h2>
+    <hr size="3" noshade>
+    <p><strong>Web Scraping:</strong>It means Automated Web Data Extraction. There are 
+    two parts: <strong>A. Crawling:</strong>A web crawler or spider searches for content
+    by following links and exploring & <strong>B. Scrapers:</strong> A Scrape 
+    program does data extraction from web pages. </p>
+    <p> However while Web Scraping the Ethics of Scraping must be maintained.</p>
+    <h2>What is an API?</h2>
+    <hr size="3" noshade>
+    <p><strong>API stands for Application Programming Interface. </strong></p>
+    <li> It is a software intermediary that allows two applications to talk to each 
+        other. Each time you use an app like Facebook, send an instant message, 
+        or check the weather on your phone, you're using an API.</li>
+    <li>APIs are thus required to incorporate a third party functionality.</li>
+    <li>API can be free or paid.</li>
+    <li>Every API must have some form of documentation.</li>
+    <li>API can be considered as a form of contract between the client and the server.
+        Thus if a client makes an request in a specific format the server will 
+        initiate a defined action. The common step is to make a http request to the 
+        server. 
+    </li>
+    <h2> What are http requests?</h2>
+    <hr size="3" noshade>
+    <p><strong>http stands for hypertext transfer protocol</strong></p>
+    <li>It specifies how requests and responses are to be formmatted ans transmitted.</li>
+    <li>
+        Websites contain a collection of files : the html code for web pages along 
+        with other supplementary resources like images, videos , styles. These 
+        files are stored in remote computers somewhere called Server. While surfing
+        all we do is download these files on our computer and use our browser to 
+        display the results properly. This is carried out by making a http request.
+    </li>
+    <li>
+        The requests can be classified into 2 categories: <strong>A. GET & 
+        B. POST</strong>
+    </li>
+    <h2>Working with certain APIs</h2>
+    <hr size="3" noshade>
+    <h3>GET Requests : </h3>
+    <ul>
+        <li>
+            <strong>Exchange Rate API (a Public API): </strong><a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/Exchange%20Rate%20API.ipynb" target="_blank">Pulling data from Exchange Rate API</a>
+        </li>
+        <li>
+            <strong>iTunes API(Public API) : </strong><a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/iTunes%20Api.ipynb" target="_blank">Pulling data from iTunes API</a>
+        </li>
+    </ul>
+    <h3>POST Requests</h3>
+    <ul>
+        <li>
+            <strong>Edamam API : </strong><a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/POST%20request.ipynb" target="_blank">Pulling data from Edamam API</a>
+        </li>
+    </ul>
+    
+
  <h1>Interactive Visualization : Plotly and Cufflinks</h1>
     <hr size="4" noshade>
     <h2>What is Interactive Visualization?</h2>
@@ -32,6 +88,8 @@
         </b>
     </div>
     <hr size="10" noshade>
+    
+    
 <h1>Data Analytics with Python</h1>
     <hr color="#fe8e28" size="4" noshade>
     <h2>Measures of Central Tendency and Dispersion</h2>
