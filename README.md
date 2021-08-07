@@ -60,6 +60,29 @@
         to obtain more information about each movie. The link to the code is given below:
     </p>
     <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/Scraping%20rotten%20tomatoes.ipynb" target="_blank">Click here</a>
+    
+    <h1>Exploratory Data Analysis</h1>
+    <div>
+        <b>Definition :</b><a href="https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15">
+        Exploratory Data Analysis(EDA)</a> refers to the critical process of 
+        performing initial investigations on data so as to discover patterns,to spot anomalies,
+        to test hypothesis and to check assumptions with the help of summary statistics and 
+        graphical representations.
+    </div>
+    <hr size="4" noshade>
+    <div>
+        <strong>Project 1 :</strong>I have taken the data of world happiness report from kaggle and 
+        used it to draw conclusions and insights about the index.<br>
+        <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/world%20happiness%20report%20EDA.ipynb">Click here</a>
+        <br><br>
+        <strong>Project 2 : </strong>Using the Emergency Calls data from kaggle I have tried to 
+        find out the factors mostly causing an emergency.<br>
+        <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/Emergency-911%20calls.ipynb">Click here</a><br><br>
+        <strong>Project 3 :</strong> Using the Titanic set I did an EDA and made it fit for prediction
+        throught Machine Learning models.<br>
+        <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/Titanic_EDA.ipynb">Click here</a>
+    </div>
+
 
  <h1>Interactive Visualization : Plotly and Cufflinks</h1>
     <hr size="4" noshade>
