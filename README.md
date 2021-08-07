@@ -61,7 +61,7 @@
     </p>
     <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/Scraping%20rotten%20tomatoes.ipynb" target="_blank">Click here</a>
     
-    <h1>Exploratory Data Analysis</h1>
+<h1>Exploratory Data Analysis</h1>
     <div>
         <b>Definition :</b><a href="https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15">
         Exploratory Data Analysis(EDA)</a> refers to the critical process of 
