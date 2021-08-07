@@ -172,3 +172,121 @@
         <h3>Working with Data</h3>
         <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/analysis%20of%20central%20tendency%20and%20dispersion.ipynb" target="_blank">Analysis of Central Tendency and Variance</a>
     </div>
+    
+<h1>Machine Learning</h1>
+    <hr size="4" noshade>
+    <h2><u>Regression Models</u></h2>
+    <p>Analysis of the dependence of the dependent variable on the independent variables 
+        with the objective <strong>to predict the average value of the dependent
+            variable givem a specific value of the independent one.</strong>  
+    </p>
+    <ul>
+        <li>
+            Simple Linear Regression model: <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/Simple%20Linear%20Regression%20.ipynb" target="_blank">Click here</a><br>
+            <strong>Description:</strong>Here I have taken the Salary Data(link to this dataset is available in the jupyter
+            notebook) and based on the Years of Experience I have tried to predict the Salary
+            using the Simple linear regression model.
+        </li>
+        <br>
+        <li>
+            Multiple Linear Regression model : <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/Multiple%20Linear%20Regression.ipynb" target="_blank">Click here</a><br>
+            <strong>Description:</strong>Here I have taken the 50_startups dataset from kaggle
+            and has used the MLRM to predict the profit of the startups.
+        </li>
+        <br>
+        <li>
+            Polynomial Linear Regression model : <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/Polynomial%20Regression%20.ipynb" target="_blank">Click here</a><br>
+            <strong>Description:</strong>Here I have taken the position-salaries dataset from kaggle
+            and has used the MLRM to predict the profit of the startups. 
+        </li>
+        <br>
+        <li>
+            Support Vector Regression model : <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/Support%20Vector%20Regression%20.ipynb" target="_blank">Click here</a><br>
+            <strong>Description:</strong>Here I have taken the position-salaries dataset from kaggle
+            and has used the SVRM to predict the profit of the startups. <br>
+            <strong>Concept:</strong>The SVRM differs from linear model in the sense that it 
+            does not predict a line but a epsilon insensitive tube. The points outside the tube 
+            are the support vectors which support the tube. 
+        </li>
+        <br>
+        <li>
+            Decision Tree Regression model : <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/Decision%20Tree%20Regression.ipynb" target="_blank">Click here</a><br>
+            <strong>Description:</strong>Here I have taken the position-salaries dataset from kaggle
+            and has used the Decision Trees model to predict the profit of the startups.<br>
+            <strong>Concept:</strong>Here the dataset points are split into separate sections. The 
+            split takes place on the basis of an algorithm which is based on Information Entropy. 
+            The splits continue to occur so long as the algorithm can add value to the points. Next it takes the 
+            average value of each terminal leaf and it assigns to new points the average value in that
+            terminal leaf.
+        </li>
+        <br>
+        <li>
+            Random Forest Regression model : <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/Random%20Forest%20Regression%20.ipynb" target="_blank">Click here</a><br>
+            <strong>Description:</strong>Here I have taken the position-salaries dataset from kaggle
+            and has used the Random Forest model to predict the profit of the startups.<br>
+            <strong>Concept:</strong>It is just like Decision Trees but the difference is that 
+            Random Forest takes many trees and makes them predict the same result and then it takes 
+            the average of all those predictions and gives the result.
+        </li>
+    </ul>
+    <hr size="2" noshade>
+    <h2>
+        <u>Classification Models</u>
+    </h2>
+    <p>In machine learning, classification refers to a 
+        <strong>predictive modeling problem where a class label is predicted for a given 
+            example of input data.</strong>
+    </p>
+    <ul>
+        <li>
+            Logistic Regression model : <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/Logistic%20Regression.ipynb" target="_blank">Click here</a>
+        </li>
+        <li>
+            K-Nearest Neighbour Classification model : <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/K-NN.ipynb" target="_blank">Click here</a>
+        </li>
+        <li>
+            Support Vector Machine Classification model  : <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/SVM%20Classifier.ipynb" target="_blank">Click here</a>
+        </li>
+        <li>
+            Kernel SVM Classification model : <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/Kernel%20SVM%20Classifier.ipynb" target="_blank">Click here</a>
+        </li>
+        <li>
+           Naive Bayes Classifier model : <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/Naive%20Bayes.ipynb" target="_blank">Click here</a>
+        </li>
+        <li>
+            Decision Tree Classification model: <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/Decision%20Trees.ipynb" target="_blank">Click here</a> 
+        </li>
+        <li>
+            Random Forest Classification model: <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/Random%20Forest.ipynb" target="_blank">Click here</a>
+        </li>
+    </ul>
+    <hr size="2" noshade>
+    <h2><u>Clustering Models</u></h2>
+    <p>Cluster analysis, or clustering, is an <strong>unsupervised machine learning task.</strong> 
+        It involves automatically discovering natural grouping in data. <strong>Unlike supervised 
+            learning (like predictive modeling), clustering algorithms only interpret the input 
+            data and find natural groups or clusters in feature space.</strong>
+    </p>
+    <ul>
+        <li>
+            K-Means Clustering Model : <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/K%20Means.ipynb" target="_blank">Click here</a>
+        </li>
+        <li>
+            Hierarchial Clustering model : <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/Hierarchical%20Clustering.ipynb" target="_blank">Click here</a>
+        </li>
+    </ul>
+    <hr size="2" noshade>
+    <h2><u>Associative Rule Learning</u></h2>
+    <p>
+        Association rule learning is a rule-based machine learning method for discovering 
+        interesting relations between variables in large databases. It is intended to identify 
+        strong rules discovered in databases using some measures of interestingness
+    </p>
+    <ul>
+        <li>
+            Apriori : <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/Apriori%20.ipynb" target="_blank">Click here</a>
+        </li>
+        <li>
+            EClat : <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/Eclat.ipynb" target="_blank">Click here</a>
+        </li>
+    </ul>
