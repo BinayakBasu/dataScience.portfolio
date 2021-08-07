@@ -53,7 +53,13 @@
             <strong>Edamam API : </strong><a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/POST%20request.ipynb" target="_blank">Pulling data from Edamam API</a>
         </li>
     </ul>
-    
+    <h2> Scraping Rotten Tomatoes</h2>
+    <hr size="3" noshade>
+    <p>I have scraped the Rotten Tomatoes website using Beautiful Soup in Python. I have scraped
+        to find out the top 100 action and adventure movies and then used multiple pages Scraping
+        to obtain more information about each movie. The link to the code is given below:
+    </p>
+    <a href="https://github.com/BinayakBasu/dataScience.portfolio/blob/main/Scraping%20rotten%20tomatoes.ipynb" target="_blank">Click here</a>
 
  <h1>Interactive Visualization : Plotly and Cufflinks</h1>
     <hr size="4" noshade>
